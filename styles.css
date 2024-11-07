@@ -1,3 +1,33 @@
 .recipe {
-    background-color: orange;
+    color: brown;
+    text-align: center;
+    display: block;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+h1,
+h3 {
+    color: pink;
+    text-align: center;
+}
+
+h3  {
+    color: brown;
+    font-weight: bold;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingredients  { 
+    text-align: center;
+    list-style-position: inside;
+}
+
+html {
+    background-color: beige;
 }
